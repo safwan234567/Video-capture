@@ -1,0 +1,18 @@
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\face detection.exe.config
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\face detection.exe
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\face detection.pdb
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\Emgu.CV.World.dll
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\Emgu.CV.World.xml
+C:\Users\Safwan\source\repos\face detection\face detection\obj\Debug\face detection.csprojAssemblyReference.cache
+C:\Users\Safwan\source\repos\face detection\face detection\obj\Debug\face_detection.videocapture.resources
+C:\Users\Safwan\source\repos\face detection\face detection\obj\Debug\face_detection.Properties.Resources.resources
+C:\Users\Safwan\source\repos\face detection\face detection\obj\Debug\face detection.csproj.GenerateResource.cache
+C:\Users\Safwan\source\repos\face detection\face detection\obj\Debug\face detection.csproj.CoreCompileInputs.cache
+C:\Users\Safwan\source\repos\face detection\face detection\obj\Debug\face detection.csproj.CopyComplete
+C:\Users\Safwan\source\repos\face detection\face detection\obj\Debug\face detection.exe
+C:\Users\Safwan\source\repos\face detection\face detection\obj\Debug\face detection.pdb
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\concrt140.dll
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\cvextern.dll
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\msvcp140.dll
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\opencv_ffmpeg341_64.dll
+C:\Users\Safwan\source\repos\face detection\face detection\bin\Debug\vcruntime140.dll
